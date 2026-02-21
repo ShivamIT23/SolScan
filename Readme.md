@@ -10,7 +10,7 @@ it allows user to be able to see the balance of any wallet address that they ent
 
 Users can also see the token available in that wallet address
 
-### . Swap
+### 1. Swap
 
 User can swap tokens in the app (only decorative not functional right now! coming soon...)
 
