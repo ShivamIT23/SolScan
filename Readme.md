@@ -2,15 +2,15 @@
 
 ## Key Feature
 
-### . Balance
+### 1. Balance
 
 it allows user to be able to see the balance of any wallet address that they enter
 
-### . Tokens
+### 2. Tokens
 
 Users can also see the token available in that wallet address
 
-### 1. Swap
+### 3. Swap
 
 User can swap tokens in the app (only decorative not functional right now! coming soon...)
 
