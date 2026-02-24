@@ -33,7 +33,7 @@ export default function SwapScreen() {
     };
 
     return (
-        <SafeAreaView style={{ flex: 1 }}>
+        <SafeAreaView style={s.container}>
             <ScrollView style={s.scroll} contentContainerStyle={s.content}>
                 <Text style={s.title}>Swap Tokens</Text>
 
@@ -104,6 +104,10 @@ export default function SwapScreen() {
 }
 
 const s = StyleSheet.create({
+    container: {
+        flex: 1,
+        backgroundColor: "#0D0D12",
+    },
     scroll: {
         flex: 1,
         backgroundColor: "#0D0D12",
